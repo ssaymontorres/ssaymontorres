@@ -2,7 +2,7 @@
 
 **`Full-Stack Developer`**
 
-Estudante de Engenharia da Computação pela Faculdade da Serra Gaúcha (FSG) e desenvolvedor full-stack com foco em TypeScript e Node.js. Construo aplicações web e mobile — de radares 3D em tempo real a sistemas de automação e scraping. Sempre explorando novas tecnologias e buscando soluções práticas para problemas do dia a dia.
+I'm a software developer with a curiosity for learning and improving. I focus on writing clean and reusable code, and I enjoy collaborating and sharing knowledge with my peers. Currently pursuing a Computer Engineering degree at Faculdade da Serra Gaúcha (FSG), I'm focused on building my career in the tech industry while also devising my own solutions for everyday challenges. In addition, I'm currently sharpening my skills through the Santander Bootcamp in Rust to broaden my systems programming expertise.
 
 
 ---
