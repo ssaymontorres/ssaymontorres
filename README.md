@@ -1,6 +1,7 @@
 #  Saymon Torres
 
 Mechatronics & IoT Developer dedicated to bridging the gap between hardware and software. I specialize in developing robust solutions that integrate embedded systems, automation, and modern web architectures. Currently pursuing a Computer Engineering degree, I leverage my industrial automation background to build scalable, data-driven IoT applications while writing clean, efficient code. Whether optimizing microcontrollers or building full-stack dashboards, I am committed to solving complex technical challenges with an engineering-first mindset.
+
 ---
 
 ### Languages and Tools
