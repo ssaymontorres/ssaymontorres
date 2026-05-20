@@ -1,10 +1,6 @@
 #  Saymon Torres
 
-**`Full-Stack Developer`**
-
-I'm a software developer with a curiosity for learning and improving. I focus on writing clean and reusable code, and I enjoy collaborating and sharing knowledge with my peers. Currently pursuing a Computer Engineering degree at Faculdade da Serra Gaúcha (FSG), I'm focused on building my career in the tech industry while also devising my own solutions for everyday challenges. In addition, I'm currently sharpening my skills through the Santander Bootcamp in Rust to broaden my systems programming expertise.
-
-
+Mechatronics & IoT Developer dedicated to bridging the gap between hardware and software. I specialize in developing robust solutions that integrate embedded systems, automation, and modern web architectures. Currently pursuing a Computer Engineering degree, I leverage my industrial automation background to build scalable, data-driven IoT applications while writing clean, efficient code. Whether optimizing microcontrollers or building full-stack dashboards, I am committed to solving complex technical challenges with an engineering-first mindset.
 ---
 
 ### Languages and Tools
