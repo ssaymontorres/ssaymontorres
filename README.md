@@ -1,1 +1,1 @@
-Mechatronics & IoT Developer
+Mechatronics Developer
